@@ -1,11 +1,11 @@
-### 🛠️ Developer | Django & Python Enthusiast | Builder of Practical Tools
+### Developer | Django & Python Enthusiast | Builder of Practical Tools
 
 I love creating systems that make work easier—inventory apps, order books, invoicing tools, and workflow automation.  
 Focused on clean design, useful features, and real-world problem solving.
 
 ---
 
-## 🚀 Tech Stack
+### Tech Stack
 - **Backend:** Django, Python  
 - **Frontend:** HTML, CSS, Bootstrap  
 - **Database:** SQLite, PostgreSQL  
@@ -13,7 +13,7 @@ Focused on clean design, useful features, and real-world problem solving.
 
 ---
 
-## 📌 What I Build
+### What I Build
 - Inventory & stock management tools  
 - Order book systems  
 - Billing & invoice generation apps  
@@ -22,17 +22,17 @@ Focused on clean design, useful features, and real-world problem solving.
 
 ---
 
-## 🌱 Currently Learning
+### Currently Learning
 - Advanced Django patterns  
 - API integrations  
 - Full-stack optimization  
 
 ---
 
-## 📫 Connect With Me
+### Connect With Me
 Feel free to reach out if you want to collaborate or discuss ideas!
 
+- [E-mail](mailto:immodded@proton.me)
+- [github](github.com/immodded)
 ---
-
-⭐ **Thanks for visiting my profile!**  
-I build things that make work simpler.  
+ 
