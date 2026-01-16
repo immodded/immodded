@@ -33,6 +33,6 @@ Focused on clean design, useful features, and real-world problem solving.
 Feel free to reach out if you want to collaborate or discuss ideas!
 
 - [E-mail](mailto:immodded@proton.me)
-- [github](github.com/immodded)
+- [github](https://www.github.com/immodded)
 ---
  
